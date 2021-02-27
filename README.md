@@ -2,7 +2,7 @@
 
 # Deploy a Sentiment Analysis Model
 
-*Udacity Machine Learning Engineer Nanodegree*
+*Udacity - Machine Learning Engineer Nanodegree*
 
 ## Project Overview
 
